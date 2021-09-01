@@ -1,6 +1,7 @@
 require("@nomiclabs/hardhat-waffle");
 require("@openzeppelin/test-helpers");
 require("@nomiclabs/hardhat-web3");
+require("@nomiclabs/hardhat-etherscan");
 /*require('bn.js');
 require('ethers');
 require('chai-as-promised');
